@@ -1,0 +1,6 @@
+[submodule "Sampled-MinHashing"]
+	path = Sampled-MinHashing
+	url = https://github.com/gibranfp/Sampled-MinHashing.git
+[submodule "SMH-Topic-Discovery"]
+	path = SMH-Topic-Discovery
+	url = https://github.com/gibranfp/SMH-Topic-Discovery
