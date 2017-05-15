@@ -1,0 +1,428 @@
+[
+  {
+    "id": 1,
+    "words":[
+      {
+        "Occurences": 4500,
+        "Word": "university",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 1678,
+        "Word": "students",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 2611,
+        "Word": "research",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      },
+      {
+        "Occurences": 1690,
+        "Word": "enseignement",
+        "Language":"Fra"
+      },
+      {
+        "Occurences": 2010,
+        "Word": "licencia",
+        "Language":"Esp"
+      },
+      {
+        "Occurences": 1200,
+        "Word": "lição",
+        "Language":"Por"
+      },
+      {
+        "Occurences": 4500,
+        "Word": "universidad",
+        "Language":"Esp"
+      },
+      {
+        "Occurences": 1678,
+        "Word": "Kurs",
+        "Language":"Ger"
+      },
+      {
+        "Occurences": 2611,
+        "Word": " doutoramento ",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2821,
+        "Word": "graduate",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academique",
+        "Language":"Fra"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "bildung",
+        "Language":"Ger"
+      },
+      {
+        "Occurences": 1690,
+        "Word": "teaching",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 2010,
+        "Word": "scholars",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 1200,
+        "Word": "master",
+        "Language":"Eng"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      },
+      {
+        "Occurences": 1690,
+        "Word": "enseignement",
+        "Language":"Fra"
+      },
+      {
+        "Occurences": 2010,
+        "Word": "licencia",
+        "Language":"Esp"
+      },
+      {
+        "Occurences": 1200,
+        "Word": "lição",
+        "Language":"Por"
+      },
+      {
+        "Occurences": 4500,
+        "Word": "universidad",
+        "Language":"Esp"
+      },
+      {
+        "Occurences": 1678,
+        "Word": "Kurs",
+        "Language":"Ger"
+      },
+      {
+        "Occurences": 2611,
+        "Word": " doutoramento ",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2821,
+        "Word": "graduate",
+        "Language":"Eng"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "words":[
+
+      {
+        "Occurences": 2821,
+        "Word": "scuola",
+        "Language":"Ita"
+      },
+      {
+        "Occurences": 2544,
+        "Word": "academic",
+        "Language":"Eng"
+      },
+      {
+        "Occurences": 3085,
+        "Word": "éducation",
+        "Language":"Fra"
+      }
+    ]
+  }
+
+
+]

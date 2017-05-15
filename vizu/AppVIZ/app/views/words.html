@@ -1,0 +1,44 @@
+<h3>Topic {{id}}</h3>
+<div class="section grey lighten-5">
+
+    <!--   Icon Section   -->
+    <div class="row" style="margin-left:0px ; margin-right:10px;">
+        <div class="col s4">
+            <div class="icon-block ">
+                <h5>Mots fréquents </h5>
+                <div  id="bars" >
+                    <input type="text" ng-model="search">
+
+                    <my-words-directive data="words" lang="lang" ></my-words-directive>
+                </div>
+            </div>
+        </div>
+
+        <div class="col s8  blue-grey lighten-5 lighten-5">
+            <div class="icon-block">
+                <h5>Langues du théme </h5>
+                <div class="row" style="margin-left:0px ; margin-right:10px;">
+
+                    <div  id="chart" ng-controller="bubbleCtrl">
+                        <my-bubble-directive data="bubbles" handle-click="handleClick(lang)"></my-bubble-directive>
+
+                    </div>
+                </div>
+                <div class="row" style="margin-left:0px ; margin-right:10px; margin-top:20px;border-top: 2px solid #cccccc ;">
+                    <h5>Top articles</h5>
+                    <div  id="barsArticle" ng-controller="articleCtrl">
+                        <my-article-directive data="articles" lang="lang"></my-article-directive>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+</div>
+<br><br>
+
+<div class="section">
+
+</div>

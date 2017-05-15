@@ -1,0 +1,34 @@
+[
+  {
+    "articleTitle": "Personal development",
+    "Pourcentage": 84,
+    "Language":"Eng"},
+  {
+    "articleTitle": "Istruzione superiore",
+    "Pourcentage": 40,
+    "Language":"Ita"},
+  {
+    "articleTitle": "Cognition",
+    "Pourcentage": 58,
+    "Language":"Eng"},
+  {
+    "articleTitle": "Universidad Complutense de Madrid",
+    "Pourcentage": 30,
+    "Language":"Esp"},
+  {
+    "articleTitle": "Système éducatif au Japon",
+    "Pourcentage": 82,
+    "Language":"Fra"},
+  {
+    "articleTitle": "Taux de scolarisation",
+    "Pourcentage": 20,
+    "Language":"Fra"},
+  {
+    "articleTitle": "Collegiate university",
+    "Pourcentage": 15,
+    "Language":"Eng"},
+  {
+    "articleTitle": "Philosophenschulen der Antike",
+    "Pourcentage": 8,
+    "Language":"Ger"}
+]

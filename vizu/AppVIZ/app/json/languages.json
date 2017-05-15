@@ -1,0 +1,39 @@
+[
+      {
+        "NumberOfWords": 4500,
+        "Name": "Eng",
+        "img_path": "../images/british-flag-medium.png",
+        "isClicked":false
+      },
+      {
+        "NumberOfWords": 1678,
+        "Name": "Por",
+        "img_path": "../images/portuguese-flag-medium.png",
+        "isClicked":false
+      },
+      {
+        "NumberOfWords": 2011,
+        "Name": "Ita",
+        "img_path": "../images/italian-flag-medium.png",
+        "isClicked":false
+
+      },
+      {
+        "NumberOfWords": 2821,
+        "Name": "Fra",
+        "img_path": "../images/french-flag-medium.png",
+        "isClicked":false
+      },
+      {
+        "NumberOfWords": 2544,
+        "Name": "Ger",
+        "img_path": "../images/german-flag-medium.png",
+        "isClicked":false
+      },
+      {
+        "NumberOfWords": 3085,
+        "Name": "Esp",
+        "img_path": "../images/spanish-flag-medium.png",
+        "isClicked":false
+      }
+    ]

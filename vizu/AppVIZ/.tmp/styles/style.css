@@ -1,0 +1,15 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSx1QkFBdUI7QUFDdkI7Ozs7O0dBS0c7O0FBRUg7RUFDRSxnQkFBZ0I7Q0FDakI7QUFDRDtDQUNDLG1CQUFtQjtDQUNuQiIsImZpbGUiOiJzdHlsZS5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvKiBDdXN0b20gU3R5bGVzaGVldCAqL1xuLyoqXG4gKiBVc2UgdGhpcyBmaWxlIHRvIG92ZXJyaWRlIE1hdGVyaWFsaXplIGZpbGVzIHNvIHlvdSBjYW4gdXBkYXRlXG4gKiB0aGUgY29yZSBNYXRlcmlhbGl6ZSBmaWxlcyBpbiB0aGUgZnV0dXJlXG4gKlxuICogTWFkZSBCeSBNYXRlcmlhbGl6ZUNTUy5jb21cbiAqL1xuXG4uaWNvbi1ibG9jayB7XG4gIHBhZGRpbmc6IDAgMTVweDtcbn1cbi5pY29uLWJsb2NrIC5tYXRlcmlhbC1pY29ucyB7XG5cdGZvbnQtc2l6ZTogaW5oZXJpdDtcbn0iXX0= */
